@@ -6,5 +6,7 @@ TP2 (hospital_tp2): ORM JPA HIbernate Spring Data
 Dans ce TP, j'ai créé un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock sur IntelliJ Ultimate. J'ai créé les entités Patient, Medecin, RendezVous, StatusRDV et Consultation avec des attributs pour chacun et des relations @ManyToOne, @OneToMany et @OneToOne. Configuration de l'unité de persistance dans le ficher application.properties et création l'interface JPA Repository basée sur Spring data.
 Tests opérations CRUD et migration de H2 Database vers MySQL.
 
+![hospital_tp2_screen](https://github.com/Amyine42/JEE/assets/132317090/1e8023c6-5b0c-4dd9-9d20-655268956ff5)
+
 TP3 (Part1): Spring MVC
 Le but de ce TP est de créer une application Web JEE basée sur Spring MVC, Thylemeaf et Spring Data JPA qui permet de gérer les patients. L'application permet d'afficher les patients avec pagination pour un grand nombre de patients, chercher les patients avec un système de recherche rapide et la suppression rapide d'un patient.
