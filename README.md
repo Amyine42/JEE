@@ -12,3 +12,11 @@ TP3 (Part1): Spring MVC
 Le but de ce TP est de créer une application Web JEE basée sur Spring MVC, Thymeleaf et Spring Data JPA qui permet de gérer les patients. L'application permet d'afficher les patients avec pagination pour un grand nombre de patients, chercher les patients avec un système de recherche rapide et la suppression rapide d'un patient.
 
 ![tp3_screen](https://github.com/Amyine42/JEE/assets/132317090/70dd74a8-83ce-42b6-988b-199ea98743ed)
+
+(Part 2)
+Nous avons créé une page template, grâce à la dépendance thymeleaf layout dialect et bootstrap pour le style css, qui nous permet de saisir et créer un patient. Ensuite nous avons validé le formulaire grâce à la dépendance Spring boot validation aux annotations de validations pour donner des contraintes au formulaire. On a utilisé th:errors afin d'afficher les messages d'erreur associés à un champ spécifique. On a créé un bouton Edit pour modifier les données du patient.
+![tp3jee1](https://github.com/Amyine42/JEE/assets/132317090/df47bdf7-835e-44b4-8964-c89038f049b4)
+
+![tp3jee2](https://github.com/Amyine42/JEE/assets/132317090/64e288da-25cd-4d6f-9dcc-238385fefadd)
+
+![tp3jee3](https://github.com/Amyine42/JEE/assets/132317090/44ada016-b7ff-4036-994e-50b2cf2b76f2)
