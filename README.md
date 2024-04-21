@@ -17,6 +17,6 @@ Le but de ce TP est de créer une application Web JEE basée sur Spring MVC, Thy
 Nous avons créé une page template, grâce à la dépendance thymeleaf layout dialect et bootstrap pour le style css, qui nous permet de saisir et créer un patient. Ensuite nous avons validé le formulaire grâce à la dépendance Spring boot validation aux annotations de validations pour donner des contraintes au formulaire. On a utilisé th:errors afin d'afficher les messages d'erreur associés à un champ spécifique. On a créé un bouton Edit pour modifier les données du patient.
 ![tp3jee1](https://github.com/Amyine42/JEE/assets/132317090/df47bdf7-835e-44b4-8964-c89038f049b4)
 
-![tp3jee2](https://github.com/Amyine42/JEE/assets/132317090/64e288da-25cd-4d6f-9dcc-238385fefadd)
+![tp3jee2](https://github.com/Amyine42/JEE/assets/132317090/dbb9b6ba-fe6f-42a3-aa81-ae08890fdf16)
 
 ![tp3jee3](https://github.com/Amyine42/JEE/assets/132317090/44ada016-b7ff-4036-994e-50b2cf2b76f2)
