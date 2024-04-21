@@ -10,4 +10,5 @@ Tests opérations CRUD et migration de H2 Database vers MySQL.
 
 TP3 (Part1): Spring MVC
 Le but de ce TP est de créer une application Web JEE basée sur Spring MVC, Thylemeaf et Spring Data JPA qui permet de gérer les patients. L'application permet d'afficher les patients avec pagination pour un grand nombre de patients, chercher les patients avec un système de recherche rapide et la suppression rapide d'un patient.
+
 ![tp3_screen](https://github.com/Amyine42/JEE/assets/132317090/70dd74a8-83ce-42b6-988b-199ea98743ed)
