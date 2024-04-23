@@ -20,3 +20,14 @@ Nous avons créé une page template, grâce à la dépendance thymeleaf layout d
 ![tp3jee2](https://github.com/Amyine42/JEE/assets/132317090/dbb9b6ba-fe6f-42a3-aa81-ae08890fdf16)
 
 ![tp3jee3](https://github.com/Amyine42/JEE/assets/132317090/44ada016-b7ff-4036-994e-50b2cf2b76f2)
+
+(Part 3)
+Nous avons vu comment instaurer le système d'authentification basé sur Spring Security. Nous avons créé trois utilisateurs avec le rôle USER dont un ADMIN qui est le seul à pouvoir modifier, supprimer et enregistrer un patient. On a utilisé la stratégie JDBC Authentication qui permet de stocker les utilisateurs et les rôles dans une base de donnée relationnelle avec un accès JDBC. On a aussi utilisé UserDetailsService qui permet à Spring Security de chercher les utilisateurs à partir de la base de données.
+
+![tp331](https://github.com/Amyine42/JEE/assets/132317090/421198d1-f192-4458-934c-6368bf0966f8)
+
+![tp332](https://github.com/Amyine42/JEE/assets/132317090/50a0c535-2a75-49f8-be7a-e85c1eefba09)
+
+![tp333](https://github.com/Amyine42/JEE/assets/132317090/663f7893-6658-44a3-bc5a-64f0bcec9889)
+
+
