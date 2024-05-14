@@ -10,15 +10,14 @@ import org.springframework.transaction.annotation.Transactional;
 
 @Service
 @Transactional
-
 public class BankService {
     @Autowired
     private BankAccountRepository bankAccountRepository;
     public void consulter(){
         BankAccount bankAccount=
-                bankAccountRepository.findById("39260429-0aef-4726-95bc-608dbef2d3ca").orElse(null);
+                bankAccountRepository.findById("0b36be78-8d5d-446b-9f20-37eadc9d3c3b").orElse(null);
         if(bankAccount!=null) {
-            System.out.println("***********************");
+            System.out.println("*****************************");
             System.out.println(bankAccount.getId());
             System.out.println(bankAccount.getBalance());
             System.out.println(bankAccount.getStatus());
@@ -30,8 +29,7 @@ public class BankService {
             } else if (bankAccount instanceof SavingAccount) {
                 System.out.println("Rate=>" + ((SavingAccount) bankAccount).getInterestRate());
             }
-            bankAccount.getAccountOperationList().forEach(op -> {
-                System.out.println("====================");
+            bankAccount.getAccountOperations().forEach(op -> {
                 System.out.println(op.getType() + "\t" + op.getOperationDate() + "\t" + op.getAmount());
             });
         }
