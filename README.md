@@ -25,6 +25,10 @@ Nous avons créé une page template, grâce à la dépendance thymeleaf layout d
 Nous avons vu comment instaurer le système d'authentification basé sur Spring Security. Nous avons créé trois utilisateurs avec le rôle USER dont un ADMIN qui est le seul à pouvoir modifier, supprimer et enregistrer un patient. On a utilisé la stratégie JDBC Authentication qui permet de stocker les utilisateurs et les rôles dans une base de donnée relationnelle avec un accès JDBC. On a aussi utilisé UserDetailsService qui permet à Spring Security de chercher les utilisateurs à partir de la base de données.
 
 ![tp331](https://github.com/Amyine42/JEE/assets/132317090/421198d1-f192-4458-934c-6368bf0966f8)
+Projet Digital Banking, Partie 1: Backend
+Dans ce projet Spring Angular JWT de Digital Banking, nous souhaitons créer une application qui permet de gérer des comptes bancaires. Chaque compte appartient à un client. Un compte peut subir plusieurs opérations de type DEBIT ou CREDIT. Il existe deux types de comptes : Comptes courants et comptes épargnes.
+Dans cette partie, nous avons créé un projet Spring Boot avec les entités JPA Customer, BankAccount, Saving Account, CurrentAccount, AccountOperation. Nous avons aussi créé les interfaces
+JPA Repository basées sur Spring Data et testé la couche DAO.
 
 ![tp332](https://github.com/Amyine42/JEE/assets/132317090/50a0c535-2a75-49f8-be7a-e85c1eefba09)
 
