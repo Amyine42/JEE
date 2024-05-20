@@ -42,7 +42,7 @@ JPA Repository basées sur Spring Data et testé la couche DAO.
 ![proj3](https://github.com/Amyine42/JEE/assets/132317090/7dcb3aa0-322e-43f7-8da5-2ad79b9ce540)
 ![proj4](https://github.com/Amyine42/JEE/assets/132317090/6bcbf3eb-6d3b-44b2-868b-ca794eeaf675)
 
-Projet Digital Banking, Partie 1: Frontend
+Projet Digital Banking, Partie 2: Frontend
 
 Dans cette partie, nous avons utilisé Spring Angular pour développer la partie frontend de l'application Digital Banking.
 
