@@ -41,6 +41,8 @@ JPA Repository basées sur Spring Data et testé la couche DAO.
 ![proj2](https://github.com/Amyine42/JEE/assets/132317090/218d3e36-7d69-44dd-a251-24d2b3bdee43)
 ![proj3](https://github.com/Amyine42/JEE/assets/132317090/7dcb3aa0-322e-43f7-8da5-2ad79b9ce540)
 ![proj4](https://github.com/Amyine42/JEE/assets/132317090/6bcbf3eb-6d3b-44b2-868b-ca794eeaf675)
+![proj3 2](https://github.com/Amyine42/JEE/assets/132317090/cb7f8a90-a8b2-4608-bd65-9d4c3557aa72)
+
 
 Projet Digital Banking, Partie 2: Frontend
 
