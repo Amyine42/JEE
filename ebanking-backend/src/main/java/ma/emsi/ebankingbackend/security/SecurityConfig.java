@@ -37,6 +37,7 @@ import javax.crypto.spec.SecretKeySpec;
 public class SecurityConfig {
     @Value("${jwt.secret}")
     private String secretKey;
+    @Bean
     public InMemoryUserDetailsManager inMemoryUserDetailsManager(){
         PasswordEncoder passwordEncoder=passwordEncoder();
         return new InMemoryUserDetailsManager(
@@ -66,6 +67,7 @@ public class SecurityConfig {
         return new NimbusJwtEncoder(new ImmutableSecret<>(secretKey.getBytes()));
     }
 
+    @Bean
     JwtDecoder jwtDecoder(){
         SecretKeySpec secretKeySpec = new SecretKeySpec(secretKey.getBytes(),"RSA");
         return NimbusJwtDecoder.withSecretKey(secretKeySpec).macAlgorithm(MacAlgorithm.HS512).build();
