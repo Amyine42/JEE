@@ -48,7 +48,19 @@ Projet Digital Banking, Partie 2: Frontend
 
 Dans cette partie, nous avons utilisé Spring Angular pour développer la partie frontend de l'application Digital Banking.
 
-![proj5](https://github.com/Amyine42/JEE/assets/132317090/6a07037b-871f-4d8d-a3e6-7ef9f2b74b3e)
+![front1](https://github.com/Amyine42/JEE/assets/132317090/fade286a-ced3-4f98-9ca6-53c9817543e3)
+![front2](https://github.com/Amyine42/JEE/assets/132317090/6d1e762b-2829-442f-8ffd-93449f7acb6d)
+![front3](https://github.com/Amyine42/JEE/assets/132317090/ec38d07e-2df7-4085-8188-9345448a42ca)
+
+Projet Digital Banking, Partie 3: Security
+Partie sécurité avec Spring Security et Json Web Token (JWT)
+
+![sec1](https://github.com/Amyine42/JEE/assets/132317090/b54d79e6-ffab-4195-b7c5-12b70b44e5da)
+![sec2](https://github.com/Amyine42/JEE/assets/132317090/a5b5bb76-4ec5-4da5-bb98-898118b01688)
+
+
+
+
 
 
 
