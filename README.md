@@ -51,6 +51,8 @@ Dans cette partie, nous avons utilisé Spring Angular pour développer la partie
 ![front1](https://github.com/Amyine42/JEE/assets/132317090/fade286a-ced3-4f98-9ca6-53c9817543e3)
 ![front2](https://github.com/Amyine42/JEE/assets/132317090/6d1e762b-2829-442f-8ffd-93449f7acb6d)
 ![front3](https://github.com/Amyine42/JEE/assets/132317090/ec38d07e-2df7-4085-8188-9345448a42ca)
+![front4](https://github.com/Amyine42/JEE/assets/132317090/e465c3a7-262c-408e-802d-b39a03b3759b)
+
 
 Projet Digital Banking, Partie 3: Security
 
