@@ -53,6 +53,7 @@ Dans cette partie, nous avons utilisé Spring Angular pour développer la partie
 ![front3](https://github.com/Amyine42/JEE/assets/132317090/ec38d07e-2df7-4085-8188-9345448a42ca)
 
 Projet Digital Banking, Partie 3: Security
+
 Partie sécurité avec Spring Security et Json Web Token (JWT)
 
 ![sec1](https://github.com/Amyine42/JEE/assets/132317090/b54d79e6-ffab-4195-b7c5-12b70b44e5da)
