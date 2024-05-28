@@ -56,7 +56,6 @@ Projet Digital Banking, Partie 3: Security
 Partie sécurité avec Spring Security et Json Web Token (JWT)
 
 ![sec1](https://github.com/Amyine42/JEE/assets/132317090/b54d79e6-ffab-4195-b7c5-12b70b44e5da)
-![sec2](https://github.com/Amyine42/JEE/assets/132317090/a5b5bb76-4ec5-4da5-bb98-898118b01688)
 
 
 
