@@ -10,10 +10,13 @@ import {CustomerAccountsComponent} from "./customer-accounts/customer-accounts.c
 import {NewCustomerComponent} from "./new-customer/new-customer.component";
 import {ReactiveFormsModule} from "@angular/forms";
 import {HttpClientModule} from "@angular/common/http";
+import { LoginComponent } from './login/login.component';
+import { AdminTemplateComponent } from './admin-template/admin-template.component';
+import { NotAuthorizedComponent } from './not-authorized/not-authorized.component';
 
 @NgModule({
   declarations: [
-    AppComponent, CustomersComponent, AccountsComponent, CustomerAccountsComponent, NavbarComponent, NewCustomerComponent
+    AppComponent, CustomersComponent, AccountsComponent, CustomerAccountsComponent, NavbarComponent, NewCustomerComponent, LoginComponent, AdminTemplateComponent, NotAuthorizedComponent
   ],
   imports: [
     BrowserModule,
